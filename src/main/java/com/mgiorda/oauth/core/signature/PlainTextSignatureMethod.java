@@ -1,7 +1,7 @@
 package com.mgiorda.oauth.core.signature;
 
-import com.mgiorda.oauth.SignatureMethod;
-import com.mgiorda.oauth.SignatureMethodType;
+import com.github.mgiorda.oauth.SignatureMethod;
+import com.github.mgiorda.oauth.SignatureMethodType;
 
 /**
  * Plaintext implementation of {@link SignatureMethod}.

@@ -1,4 +1,4 @@
-package com.mgiorda.oauth;
+package com.github.mgiorda.oauth;
 
 /**
  * Enum of every OAuth field included in a signature.

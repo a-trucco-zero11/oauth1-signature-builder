@@ -6,8 +6,8 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-import com.mgiorda.oauth.OAuthField;
-import com.mgiorda.oauth.OAuthSignature;
+import com.github.mgiorda.oauth.OAuthField;
+import com.github.mgiorda.oauth.OAuthSignature;
 
 class MapOAuthSignature implements OAuthSignature {
 

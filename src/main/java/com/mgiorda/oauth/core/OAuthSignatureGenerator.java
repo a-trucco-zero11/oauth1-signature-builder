@@ -8,13 +8,13 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.Set;
 
-import com.mgiorda.oauth.HttpMethod;
-import com.mgiorda.oauth.HttpParameter;
-import com.mgiorda.oauth.OAuthConfig;
-import com.mgiorda.oauth.OAuthField;
-import com.mgiorda.oauth.OAuthSignature;
-import com.mgiorda.oauth.SignatureMethod;
-import com.mgiorda.oauth.TimestampNonceFactory.TimestampNonce;
+import com.github.mgiorda.oauth.HttpMethod;
+import com.github.mgiorda.oauth.HttpParameter;
+import com.github.mgiorda.oauth.OAuthConfig;
+import com.github.mgiorda.oauth.OAuthField;
+import com.github.mgiorda.oauth.OAuthSignature;
+import com.github.mgiorda.oauth.SignatureMethod;
+import com.github.mgiorda.oauth.TimestampNonceFactory.TimestampNonce;
 
 /**
  * SignatureGenerator Helper class.

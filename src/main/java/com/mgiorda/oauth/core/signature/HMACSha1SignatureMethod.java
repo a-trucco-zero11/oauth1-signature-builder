@@ -3,8 +3,8 @@ package com.mgiorda.oauth.core.signature;
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 
-import com.mgiorda.oauth.SignatureMethod;
-import com.mgiorda.oauth.SignatureMethodType;
+import com.github.mgiorda.oauth.SignatureMethod;
+import com.github.mgiorda.oauth.SignatureMethodType;
 
 /**
  * HMAC-SHA1 implementation of {@link SignatureMethod}

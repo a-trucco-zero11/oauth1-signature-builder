@@ -1,9 +1,9 @@
 package com.mgiorda.oauth;
 
-import com.mgiorda.oauth.HttpMethod;
-import com.mgiorda.oauth.OAuthConfig;
-import com.mgiorda.oauth.OAuthConfigBuilder;
-import com.mgiorda.oauth.OAuthSignature;
+import com.github.mgiorda.oauth.HttpMethod;
+import com.github.mgiorda.oauth.OAuthConfig;
+import com.github.mgiorda.oauth.OAuthConfigBuilder;
+import com.github.mgiorda.oauth.OAuthSignature;
 
 public class SignatureSample {
 

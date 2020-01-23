@@ -7,9 +7,9 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import com.mgiorda.oauth.HttpMethod;
-import com.mgiorda.oauth.HttpParameter;
-import com.mgiorda.oauth.OAuthField;
+import com.github.mgiorda.oauth.HttpMethod;
+import com.github.mgiorda.oauth.HttpParameter;
+import com.github.mgiorda.oauth.OAuthField;
 
 class OAuthBaseStringGenerator {
 

@@ -1,4 +1,4 @@
-package com.mgiorda.oauth;
+package com.github.mgiorda.oauth;
 
 import java.util.Objects;
 

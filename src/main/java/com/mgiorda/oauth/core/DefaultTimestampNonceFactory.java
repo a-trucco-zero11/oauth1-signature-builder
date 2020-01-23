@@ -1,7 +1,7 @@
 package com.mgiorda.oauth.core;
 import java.util.Random;
 
-import com.mgiorda.oauth.TimestampNonceFactory;
+import com.github.mgiorda.oauth.TimestampNonceFactory;
 
 /**
  * Default implementation of TimestampNonceFactory.

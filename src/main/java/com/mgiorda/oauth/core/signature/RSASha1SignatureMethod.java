@@ -6,8 +6,8 @@ import java.security.PrivateKey;
 import java.security.Signature;
 import java.security.SignatureException;
 
-import com.mgiorda.oauth.SignatureMethod;
-import com.mgiorda.oauth.SignatureMethodType;
+import com.github.mgiorda.oauth.SignatureMethod;
+import com.github.mgiorda.oauth.SignatureMethodType;
 
 /**
  * A signature service that uses the RSA-SHA1 algorithm.
