@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.mgiorda</groupId>
+	<groupId>com.github.a-trucco-zero11</groupId>
 	<artifactId>oauth1-signature-builder</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
@@ -18,7 +18,7 @@
 	<licenses>
 		<license>
 			<name>MIT</name>
-			<url>https://github.com/mgiorda/oauth1-signature-builder/blob/master/LICENSE</url>
+			<url>https://github.com/a-trucco-zero11/oauth1-signature-builder/blob/master/LICENSE</url>
 		</license>
 	</licenses>
 
@@ -31,7 +31,7 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/mgiorda/oauth1-signature-builder.git</connection>
+		<connection>scm:git:git://github.com/a-trucco-zero11/oauth1-signature-builder.git</connection>
 		<developerConnection>scm:git:git@github.com:mgiorda/oauth1-signature-builder.git</developerConnection>
 		<url>https://github.com/mgiorda/oauth1-signature-builder</url>
 	</scm>

@@ -3,8 +3,8 @@ package com.github.mgiorda.oauth;
 import java.util.Objects;
 import java.util.Optional;
 
-import com.mgiorda.oauth.core.DefaultTimestampNonceFactory;
-import com.mgiorda.oauth.core.signature.HMACSha1SignatureMethod;
+import com.github.mgiorda.oauth.core.DefaultTimestampNonceFactory;
+import com.github.mgiorda.oauth.core.signature.HMACSha1SignatureMethod;
 
 /**
  * OAuthConfig Builder class. 

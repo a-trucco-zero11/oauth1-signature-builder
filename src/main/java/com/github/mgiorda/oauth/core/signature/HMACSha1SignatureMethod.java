@@ -1,4 +1,4 @@
-package com.mgiorda.oauth.core.signature;
+package com.github.mgiorda.oauth.core.signature;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

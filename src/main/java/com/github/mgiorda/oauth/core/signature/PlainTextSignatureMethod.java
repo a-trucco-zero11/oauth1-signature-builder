@@ -1,4 +1,4 @@
-package com.mgiorda.oauth.core.signature;
+package com.github.mgiorda.oauth.core.signature;
 
 import com.github.mgiorda.oauth.SignatureMethod;
 import com.github.mgiorda.oauth.SignatureMethodType;

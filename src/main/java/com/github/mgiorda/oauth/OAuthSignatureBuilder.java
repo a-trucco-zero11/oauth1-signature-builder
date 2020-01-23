@@ -5,7 +5,7 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.Set;
 
-import com.mgiorda.oauth.core.OAuthSignatureGenerator;
+import com.github.mgiorda.oauth.core.OAuthSignatureGenerator;
 
 /**
  * OAuthSignature Builder class.

@@ -1,4 +1,4 @@
-package com.mgiorda.oauth.core;
+package com.github.mgiorda.oauth.core;
 
 import java.util.ArrayList;
 import java.util.Collections;

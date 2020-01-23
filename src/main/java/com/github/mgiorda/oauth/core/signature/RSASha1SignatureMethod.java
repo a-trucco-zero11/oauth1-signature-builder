@@ -1,4 +1,4 @@
-package com.mgiorda.oauth.core.signature;
+package com.github.mgiorda.oauth.core.signature;
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;

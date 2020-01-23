@@ -1,4 +1,4 @@
-package com.mgiorda.oauth.core;
+package com.github.mgiorda.oauth.core;
 import java.util.Random;
 
 import com.github.mgiorda.oauth.TimestampNonceFactory;

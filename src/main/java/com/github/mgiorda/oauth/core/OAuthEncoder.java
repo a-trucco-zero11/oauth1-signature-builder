@@ -1,4 +1,4 @@
-package com.mgiorda.oauth.core;
+package com.github.mgiorda.oauth.core;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 import java.util.Collections;
