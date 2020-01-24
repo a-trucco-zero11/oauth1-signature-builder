@@ -10,7 +10,14 @@
 	<name>OAuth1 Signature Builder</name>
 	<description>Minimal library to create OAuth-1.0a signatures</description>
 	<url>https://github.com/mgiorda/oauth1-signature-builder</url>
-
+	
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+		
 	<dependencies>
 	</dependencies>
 
@@ -92,7 +99,7 @@
 					</execution>
 				</executions>
 			</plugin>
-			<plugin>
+			<!--<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-gpg-plugin</artifactId>
 				<executions>
@@ -104,7 +111,7 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin>-->
 		</plugins>
 	</build>
 </project>
