@@ -5,7 +5,6 @@
 
 	<groupId>com.github.a-trucco-zero11</groupId>
 	<artifactId>oauth1-signature-builder</artifactId>
-	<packaging>jar</packaging>
 	<version>1.0</version>
 
 	<name>OAuth1 Signature Builder</name>
